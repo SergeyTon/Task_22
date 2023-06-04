@@ -1,0 +1,14 @@
+button {
+    display: flex;
+    padding: 16px 24px;
+    font-size: 2.5rem;
+    border-radius: 8px;
+    color: black;
+    background-color: lightgreen;
+}
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 2rem;
+  
+}
